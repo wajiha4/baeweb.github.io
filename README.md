@@ -98,7 +98,7 @@ cd aventador-svj-countdown
         <div class="message">
             <p>Hey Mangoman! I can't wait to celebrate with you. Here's a countdown to your special day:</p>
         </div>
-        <a href="playlist-link" class="button">Listen to Your Favorite Songs</a>
+      
     </div>
     <script>
         function updateCountdown() {
